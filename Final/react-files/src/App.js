@@ -3,7 +3,7 @@ import Navbar from "./Navigation/Navbar";
 
 const shortText = "Khandker Sadia Rahman";
 const longText =
-  "Hi guys!"
+  "Hi guys!";
 
 function App() {
   return (
