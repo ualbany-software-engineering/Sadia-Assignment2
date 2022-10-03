@@ -3,7 +3,7 @@ import Navbar from "./Navigation/Navbar";
 
 const shortText = "Khandker Sadia Rahman";
 const longText =
-  "Hi guys!";
+  "Hi guys! This is Sadia, a PhD student and graduate research Assistant in University at Albany, SUNY.";
 
 function App() {
   return (
